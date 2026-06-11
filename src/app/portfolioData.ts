@@ -19,7 +19,7 @@ export const profile = {
     "RAG Systems Developer",
     "AI Security Enthusiast"
   ],
-  resumeUrl: "#",
+  resumeUrl: "https://drive.google.com/file/d/17GKRWrT9uWiEeDIrurT-E95D_3J7RRLQ/view?usp=sharing",
   location: "India",
 };
 
